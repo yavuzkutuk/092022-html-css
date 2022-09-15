@@ -9,7 +9,7 @@ header{
 }
 
 main{
-    height: 30vh;
+    height: 80vh;
     background-color: #f44336;
 }
 
@@ -22,4 +22,10 @@ nav ul li{
     float: left;
     margin-right: 30px;
     list-style: none;
+}
+
+/* CLASSS */
+.copyright{
+    text-align: center;
+    font-size: 40px;
 }
