@@ -2,3 +2,24 @@
 body{
     background-color: black;
 }
+
+header{
+    height: 10vh;
+    background-color: aqua;
+}
+
+main{
+    height: 30vh;
+    background-color: #f44336;
+}
+
+footer{
+    height: 10vh;
+    background-color: blue;
+}
+
+nav ul li{
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+}
